@@ -1,4 +1,6 @@
 Son hali 25.04.2024 15.11
+ghp_m3wZ9fBlDWKSuvu
+JMXUHU4XpBEV7NG3SlQhK
 
 komutlar.sh
 sudo apt update
